@@ -1,0 +1,12 @@
+table, th, td {
+    border: 1.5px solid yellow;
+  }
+
+  p {
+      color: black;
+  }
+
+  img {
+      width: 240px; 
+      height: 235px;
+  }
